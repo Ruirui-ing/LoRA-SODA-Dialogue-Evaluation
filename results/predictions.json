@@ -1,0 +1,695 @@
+{
+  "base_model": [
+    {
+      "sample": 1,
+      "reference": "Alright, Professor Matthews. Thank you so much for your advice. I'll definitely take everything you've said into consideration before making my final decision.",
+      "prediction": "你们的经历让我感到很欣慰，我们的工作很有成就感。我们的工作很有意义。我们的工作很有价值。我们的工作很有意义",
+      "loss": 4.3863935470581055,
+      "tokens": 29
+    },
+    {
+      "sample": 2,
+      "reference": "You could try negotiating with them before you sign anything. See if you can get them to agree to fairer terms. Or you could look for another job altogether. It's up to you.",
+      "prediction": "I'm not sure about this contract. There's a lot of legal jargon that I don't understand. But I guess there's not much I can do about it. But I guess there's not much I can do about it. But I guess there's not much I can do about it. But I guess there's not much I can do about it. But I guess there's not much I can do about it. But I guess there's not much I can do about it. But",
+      "loss": 4.783995628356934,
+      "tokens": 39
+    },
+    {
+      "sample": 3,
+      "reference": "I know, mom. I'm sorry.",
+      "prediction": "你可以接受我的答案。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 1.886826992034912,
+      "tokens": 9
+    },
+    {
+      "sample": 4,
+      "reference": "Well, have a good time at the park and be sure to come back home safely.",
+      "prediction": "你知道吗？我们的生活是如此的美好，我们的生活是如此的美好，我们的生活是如此的美好，我们的生活是如此的美�",
+      "loss": 3.605027198791504,
+      "tokens": 18
+    },
+    {
+      "sample": 5,
+      "reference": "Okay, that's a start. Let me think about it and I'll get back to you.",
+      "prediction": "你好，我是一个很棒的女孩。我们的爱情很美好，我们的爱情很幸福。我们的爱情很温馨，我们的爱情很甜蜜。",
+      "loss": 3.236067533493042,
+      "tokens": 20
+    },
+    {
+      "sample": 6,
+      "reference": "It is. I love it.",
+      "prediction": "你好，我是一个爱好者。我是一个爱好者。我是一个爱好者。我是一个爱好者。我是一个爱好者。我是一个爱好者。我是一个爱好者。我",
+      "loss": 3.922333240509033,
+      "tokens": 7
+    },
+    {
+      "sample": 7,
+      "reference": "Yeah, it really does.",
+      "prediction": "你们的钱不够，我们可以拿去买东西。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 3.62253737449646,
+      "tokens": 6
+    },
+    {
+      "sample": 8,
+      "reference": "Of course! Anything you need.",
+      "prediction": "你可以把我的钱放在你的账户上，但是你不能把我的钱放在你的账户上。/Pepper: 你可以把我的钱放在你的账户上�",
+      "loss": 4.174847602844238,
+      "tokens": 7
+    },
+    {
+      "sample": 9,
+      "reference": "You're welcome, Ursula. I care about you a lot, and I don't want to see you feeling lonely or sad. If you ever need anything, just let me know and I'll be there for you.",
+      "prediction": "你们的爱情是我的，我的爱情是你们的。我们的爱情是你们的。我们的爱情是你们的。我们的爱情是你们的。我们的爱情是你们的。",
+      "loss": 2.8673126697540283,
+      "tokens": 45
+    },
+    {
+      "sample": 10,
+      "reference": "Well, your great-grandfather was also a very important politician. He was the governor of the state for many years. And he was also very involved in the civil rights movement.",
+      "prediction": "你们的祖先是否认为我们是一个祖先？！？？？？？？？？？？？？？？？？？？？？？",
+      "loss": 1.7816153764724731,
+      "tokens": 37
+    },
+    {
+      "sample": 11,
+      "reference": "Well, you definitely have good taste! These paintings are really beautiful.",
+      "prediction": "你们的作品是我的，我的作品是你们的，我的作品是你们的，我的作品是你们的，我的作品是你们的，我的作品是你们的，我的作",
+      "loss": 3.668303966522217,
+      "tokens": 14
+    },
+    {
+      "sample": 12,
+      "reference": "Thanks, McKenna. Just knowing you're here for me makes me feel a little better. I don't know what I would do without you.",
+      "prediction": "你们的爱情是我们的爱情，我们的爱情是我们的爱情，我们的爱情是我们的爱情，我们的爱情是我们的爱情，我们",
+      "loss": 3.4103734493255615,
+      "tokens": 29
+    },
+    {
+      "sample": 13,
+      "reference": "Well, if you like it that much, then I'm sure I will too. Thanks for the recommendation!",
+      "prediction": "你们都吃过这个饭吗？！！！！！！！！！！！！！！！！！！！！！！！！！！",
+      "loss": 4.049738883972168,
+      "tokens": 22
+    },
+    {
+      "sample": 14,
+      "reference": "Thanks, Courtland. That means a lot coming from you.",
+      "prediction": "你们的确是个好人，但是你们的确是个坏人。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 4.75343132019043,
+      "tokens": 13
+    },
+    {
+      "sample": 15,
+      "reference": "Sure thing!",
+      "prediction": "你好，我是一个很好的朋友。我们都很喜欢这个朋友。我们都很喜欢这个朋友。我们都很喜欢这个朋友。我们都很",
+      "loss": 6.704588413238525,
+      "tokens": 3
+    },
+    {
+      "sample": 16,
+      "reference": "Of course, kiddo. Now go get some rest and we'll see you at practice tomorrow",
+      "prediction": "你好，我是一个很有趣的人。我们都很喜欢你。我们都很喜欢你。我们都很喜欢你。我们都很喜欢你。我们都很�",
+      "loss": 4.433841705322266,
+      "tokens": 20
+    },
+    {
+      "sample": 17,
+      "reference": "A right angle.",
+      "prediction": "。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 2.6696481704711914,
+      "tokens": 4
+    },
+    {
+      "sample": 18,
+      "reference": "No, it's not that. I just don't think this job is for me. Thank you for understanding though.",
+      "prediction": "你可以把我的经验和你的经验分享给你的朋友，但是你必须要把我的经验分享给你的家人。我们可以把我们",
+      "loss": 3.4168269634246826,
+      "tokens": 24
+    },
+    {
+      "sample": 19,
+      "reference": "That sounds like a great idea! I'm sure you'll have a blast.",
+      "prediction": "你们的计划是什么？/Chantz: Well, I was thinking about taking a trip to Europe this summer. What do you think?/Chantz: Well, I was thinking about taking a trip to Europe this summer. What do you think?/Chantz: Well, I was thinking about taking a trip to Europe this summer. What do you think?/Chantz: Well, I was thinking about taking a trip",
+      "loss": 3.55047607421875,
+      "tokens": 16
+    },
+    {
+      "sample": 20,
+      "reference": "Friends? After what you said, how can we be friends? You clearly don't have any respect for me or my work ethic. Maybe we can be acquaintances, but certainly not friends.\"",
+      "prediction": "你们的爱情不会因为你们的爱情而改变，你们的爱情不会因为你们的爱情而改变。你们的爱情不会因为你们的爱情�",
+      "loss": 4.719478607177734,
+      "tokens": 38
+    },
+    {
+      "sample": 21,
+      "reference": "Thanks, I really appreciate that.",
+      "prediction": "你们都很忙，我们都很忙，我们都很忙，我们都很忙，我们都很忙，我们都很忙，我们都很忙，我们都很�",
+      "loss": 3.136011838912964,
+      "tokens": 7
+    },
+    {
+      "sample": 22,
+      "reference": "I know what you mean. It's like we were meant to be together.",
+      "prediction": "你是我的第一个女孩，我是你的第一个女孩。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 2.7806625366210938,
+      "tokens": 16
+    },
+    {
+      "sample": 23,
+      "reference": "Really? Thanks, John. That would mean a lot to me.",
+      "prediction": "你好，我是你的父亲。我们的父亲是一个普通的人。我们的父亲是一个普通的人。我们的父亲是一个普通的人。我们的父亲是一个�",
+      "loss": 4.6377129554748535,
+      "tokens": 14
+    },
+    {
+      "sample": 24,
+      "reference": "Yeah, thanks for helping me look for it.",
+      "prediction": "你知道吗？我知道。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 3.006622791290283,
+      "tokens": 10
+    },
+    {
+      "sample": 25,
+      "reference": "Thanks. I hope so.",
+      "prediction": "你好，我是Taylin。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 3.9271347522735596,
+      "tokens": 6
+    },
+    {
+      "sample": 26,
+      "reference": "Hmmm...I don't know if I'm ready for that kind of commitment just yet. But I'm willing to try it if you are.",
+      "prediction": "你好，我是美国人，我们是美国人，我们是美国人，我们是美国人，我们是美国人，我们是美国人，我们是美国人",
+      "loss": 3.532202959060669,
+      "tokens": 30
+    },
+    {
+      "sample": 27,
+      "reference": "You too!",
+      "prediction": "你好，我是一个很有爱心的人。我们的爱心是一种爱，我们的爱心是一种爱，我们的爱心是一种爱，我们的爱心是一",
+      "loss": 5.878323078155518,
+      "tokens": 3
+    },
+    {
+      "sample": 28,
+      "reference": "Just from the way you act and the things you've done. You're not a good person, Rayleen.",
+      "prediction": "你们觉得我们是个什么样的人？/Rayleen: I'm not going to do anything about it. I just wanted to let you know that I know.\nRayleen: Well, now you've told me. Is that all？/Rayleen: Well, now you've told me. Is that all？/Rayleen: Well, now you've told me.",
+      "loss": 3.473357915878296,
+      "tokens": 23
+    },
+    {
+      "sample": 29,
+      "reference": "Korie, you need to learn to deal with your family. They're not perfect, but they love you and they're always there for you. Just try to be more understanding and patient with them.",
+      "prediction": "。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 3.0094645023345947,
+      "tokens": 41
+    },
+    {
+      "sample": 30,
+      "reference": "That sounds like an excellent plan! I'm sure your readers will love it.",
+      "prediction": "你可以把你的经历和你的想法记录下来，并且把它们记录下来。你可以把你的想法记录下来。你可以把你的想",
+      "loss": 3.742612361907959,
+      "tokens": 16
+    },
+    {
+      "sample": 31,
+      "reference": "Yeah. I hope so.",
+      "prediction": "你们觉得我们的爱情是什么样子的？是不是很美好？是不是很幸福？是不是很快乐？是不是很幸福？是不是很美好？是不是很",
+      "loss": 4.140097618103027,
+      "tokens": 6
+    },
+    {
+      "sample": 32,
+      "reference": "You should have told me .I could have helped you .",
+      "prediction": "你知道吗？我们的爱情是那么的美好，那么的纯洁，那么的美好。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 3.5702388286590576,
+      "tokens": 12
+    },
+    {
+      "sample": 34,
+      "reference": "Well, you definitely succeeded! It looks amazing.",
+      "prediction": "你真的很棒！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！",
+      "loss": 4.845415115356445,
+      "tokens": 10
+    },
+    {
+      "sample": 35,
+      "reference": "I see your point. Being early is definitely better than being late.",
+      "prediction": "你们都很忙，我们都很忙。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 4.002070426940918,
+      "tokens": 14
+    },
+    {
+      "sample": 36,
+      "reference": "Thanks, Mom.",
+      "prediction": "你好，我是你的爸爸。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 2.1506505012512207,
+      "tokens": 4
+    },
+    {
+      "sample": 37,
+      "reference": "Jennings, you have to try. You need to go home and face your family. They love you and they will forgive you, I'm sure of it.",
+      "prediction": "你们都不知道，我们都不知道，我们都不知道，我们都不知道，我们都不知道，我们都不知道，我们都不知",
+      "loss": 3.115584373474121,
+      "tokens": 32
+    },
+    {
+      "sample": 38,
+      "reference": "Absolutely. I feel the same way.",
+      "prediction": "你们认为我们的观点是错的？！？？？？？？？？？？？？？？？？？？？？？？？",
+      "loss": 3.418186664581299,
+      "tokens": 8
+    },
+    {
+      "sample": 39,
+      "reference": "You'll have to try. It's not going to be easy, but you can do it.",
+      "prediction": "你们不知道，我们的祖先是怎样的。我们的祖先是怎样的。我们的祖先是怎样的。我们的祖先是怎样的。我们的祖先是怎样的。我",
+      "loss": 2.1080288887023926,
+      "tokens": 20
+    },
+    {
+      "sample": 40,
+      "reference": "You're welcome!",
+      "prediction": "你们的货物是什么？ 你们的货物是什么？ 你们的货物是什么？ 你们的货物是什么？ 你们的货物是什么？ 你们的",
+      "loss": 4.536571979522705,
+      "tokens": 4
+    },
+    {
+      "sample": 41,
+      "reference": "Sure, that sounds great!",
+      "prediction": "你知道吗？我们的第一次见面是在一个音乐节上。我们的第一次见面是在一个音乐节上。我们的第一次见面是�",
+      "loss": 4.676902770996094,
+      "tokens": 6
+    },
+    {
+      "sample": 42,
+      "reference": "Alright then. If you're sure that's what you want to do, go for it. Just remember to be careful when handling money and negotiating prices with potential buyers.",
+      "prediction": "你们的钱不够了，我们的钱不够了，我们的钱不够了，我们的钱不够了，我们的钱不够了，我们的钱不够了，我们",
+      "loss": 4.57720947265625,
+      "tokens": 34
+    },
+    {
+      "sample": 43,
+      "reference": "Thank you, I'm looking forward to it.",
+      "prediction": "你们的经历让我感到非常的欣慰，我们的经历让我们的生活变得更加的美好。我们的经历让我们的生活变得�",
+      "loss": 1.3033417463302612,
+      "tokens": 10
+    },
+    {
+      "sample": 44,
+      "reference": "I don't know, but it definitely makes you think twice about walking alone at night.",
+      "prediction": "你们是不是被绑架了？/Friend: Yeah, I've heard that one. What happened?/Franchesca: 你们是不是被绑架了？/Friend: Wow, that's really creepy. Do you think it could really happen?/Friend: Wow, that's really creepy. Do you think it could really happen?/Friend",
+      "loss": 3.7494184970855713,
+      "tokens": 18
+    },
+    {
+      "sample": 45,
+      "reference": "You're right, we can't rely on the government to do everything for us. But they should be doing more than they are. And if they did more, it would go a long way toward helping us get through this crisis.",
+      "prediction": "你们的财产是否可以用来支付？/Sky: 你们的财产是否可以用来支付？/Sky: 你们的财产是否可以用来支付？/Sky: �",
+      "loss": 3.215409517288208,
+      "tokens": 47
+    },
+    {
+      "sample": 46,
+      "reference": "Aww, thank you so much, Jayleigh! That really means a lot to me. I appreciate your friendship too.",
+      "prediction": "你好，我是一个很有趣的人。我们都很喜欢你。我们都很喜欢你。我们都很喜欢你。我们都很喜欢你。我们都很�",
+      "loss": 4.134687900543213,
+      "tokens": 25
+    },
+    {
+      "sample": 47,
+      "reference": "That makes sense. I'm happy to help out again. How much do you need?",
+      "prediction": "你们的祖先是否也在这里？/Anahi: 你们的祖先是否也在这里？/Anahi: 你们的祖先是否也在这里？/Anahi: 你们的祖先是否",
+      "loss": 3.2715225219726562,
+      "tokens": 18
+    },
+    {
+      "sample": 48,
+      "reference": "You're welcome, honey. Have fun tonight!",
+      "prediction": "你好，我是一个很喜欢穿着红色的女孩。我们的红色系列是一个很美的系列，但是我们的红色系列的穿着却",
+      "loss": 4.3507490158081055,
+      "tokens": 10
+    },
+    {
+      "sample": 49,
+      "reference": "Yes, Mom! Thank you so much!",
+      "prediction": "你好，我是你的朋友。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+      "loss": 3.7463083267211914,
+      "tokens": 9
+    },
+    {
+      "sample": 50,
+      "reference": "We're not sure. He was beat up pretty badly.",
+      "prediction": "你们在哪里？/Piper: No, I just saw the aftermath. But from what people were saying, it sounded like Jimmy started it.\nOfficer: So you didn't see the actualioned？/Piper: No idea. He's usually a pretty good kid.\nOfficer: So you didn't see the actualioned？/Piper: No idea. He's usually a pretty good kid.",
+      "loss": 4.312065601348877,
+      "tokens": 12
+    }
+  ],
+  "lora_model": [
+    {
+      "sample": 1,
+      "reference": "Alright, Professor Matthews. Thank you so much for your advice. I'll definitely take everything you've said into consideration before making my final decision.",
+      "prediction": "I really appreciate it. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for you. I'm sorry for",
+      "loss": 4.135458469390869,
+      "tokens": 29
+    },
+    {
+      "sample": 2,
+      "reference": "You could try negotiating with them before you sign anything. See if you can get them to agree to fairer terms. Or you could look for another job altogether. It's up to you.",
+      "prediction": "I'm not sure about this contract. There's a lot of legal jargon that I don't understand. They'll provide you with training and pay for your travel expenses. In return, you'll be expected to complete certain tasks and objectives. In return, you'll be expected to complete certain tasks and objectives. In return, you'll be expected to complete certain tasks and objectives. In return, you'll be expected to complete certain tasks and objectives. In return, you'll be expected to complete",
+      "loss": 4.833285808563232,
+      "tokens": 39
+    },
+    {
+      "sample": 3,
+      "reference": "I know, mom. I'm sorry.",
+      "prediction": "Mother: I'm sorry, mom. It won't happen again.\nNiyah: I'm sorry, mom. It won't happen again.\nNiyah: I'm sorry, mom. It won't happen again.\nNiyah: I'm sorry, mom. It won't happen again.\nNiyah: I'm sorry, mom. It won't happen again.\nNiyah: I'm sorry, mom. It won't happen again.\nNiyah: I",
+      "loss": 1.8510030508041382,
+      "tokens": 9
+    },
+    {
+      "sample": 4,
+      "reference": "Well, have a good time at the park and be sure to come back home safely.",
+      "prediction": "I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I'm going to the park, I",
+      "loss": 3.497188091278076,
+      "tokens": 18
+    },
+    {
+      "sample": 5,
+      "reference": "Okay, that's a start. Let me think about it and I'll get back to you.",
+      "prediction": "Mother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I'll be happy.\nMother: I",
+      "loss": 3.117032766342163,
+      "tokens": 20
+    },
+    {
+      "sample": 6,
+      "reference": "It is. I love it.",
+      "prediction": "回答：Carlyn: \nI'm a musician. I play the violin in the town orchestra.\nCarlyn: \nI'm a musician. I play the violin in the town orchestra.\nCarlyn: \nI'm a musician. I play the violin in the town orchestra.\nCarlyn: \nI'm a musician. I play the violin in the town orchestra.\nCarlyn: \nI'm a musician. I play",
+      "loss": 3.473414182662964,
+      "tokens": 7
+    },
+    {
+      "sample": 7,
+      "reference": "Yeah, it really does.",
+      "prediction": "回答：我不知道你们是否听说过我的父亲。",
+      "loss": 3.4209401607513428,
+      "tokens": 6
+    },
+    {
+      "sample": 8,
+      "reference": "Of course! Anything you need.",
+      "prediction": "She's a fine book, but I'm glad you're here, I've been wanting to talk to you about something.\nPepper: That's great! What is it?\nJanae: I invented something, and I want to get a patent for it.\nPepper: That's great! What is it?\nJanae: I invented something, and I want to get a patent for it.\nPepper: That's great! What is it?",
+      "loss": 3.963890790939331,
+      "tokens": 7
+    },
+    {
+      "sample": 9,
+      "reference": "You're welcome, Ursula. I care about you a lot, and I don't want to see you feeling lonely or sad. If you ever need anything, just let me know and I'll be there for you.",
+      "prediction": "回答：I'm still here with you.",
+      "loss": 2.9094810485839844,
+      "tokens": 45
+    },
+    {
+      "sample": 10,
+      "reference": "Well, your great-grandfather was also a very important politician. He was the governor of the state for many years. And he was also very involved in the civil rights movement.",
+      "prediction": "I had no idea our family was so involved in politics. You know anything else about them?\nI had no idea our family was so involved in politics. You know anything else about them?\nI had no idea our family was so involved in politics. You know anything else about them?\nI had no idea our family was so involved in politics. You know anything else about them?\nI had no idea our family was so involved in politics. You know anything else about them?",
+      "loss": 1.7031419277191162,
+      "tokens": 37
+    },
+    {
+      "sample": 11,
+      "reference": "Well, you definitely have good taste! These paintings are really beautiful.",
+      "prediction": "回答：这是一个美丽的故事，但是我们的父母并不知道他们的经历。他们的父母并不知道他们的经历，但是他们知",
+      "loss": 3.743809938430786,
+      "tokens": 14
+    },
+    {
+      "sample": 12,
+      "reference": "Thanks, McKenna. Just knowing you're here for me makes me feel a little better. I don't know what I would do without you.",
+      "prediction": "回答：我很抱歉，我只是一个普通的人，我不知道你们的意思。我只是一个普通的人，我不知道你们的意思。我只是一个�",
+      "loss": 3.4565749168395996,
+      "tokens": 29
+    },
+    {
+      "sample": 13,
+      "reference": "Well, if you like it that much, then I'm sure I will too. Thanks for the recommendation!",
+      "prediction": "回答：Elisa: I'm sorry, I'm sorry, I'm sorry.",
+      "loss": 3.9770286083221436,
+      "tokens": 22
+    },
+    {
+      "sample": 14,
+      "reference": "Thanks, Courtland. That means a lot coming from you.",
+      "prediction": "You're smart and capable of anything you set your mind to. Just because you don't fit the mold of what society says is intelligent doesn't mean you're not intelligent. You should be proud of how far you've come and everything you've accomplished.\nJasmin: \nYou're smart and capable of anything you set your mind to. Just because you don't fit the mold of what society says is intelligent doesn't mean you're not intelligent. You should be proud of how",
+      "loss": 4.589052677154541,
+      "tokens": 13
+    },
+    {
+      "sample": 15,
+      "reference": "Sure thing!",
+      "prediction": "I'm not sure if I'm ready for a pet yet.\nIrina: \nI'm not sure if I'm ready for a pet yet.\nIrina: \nI'm not sure if I'm ready for a pet yet.\nIrina: \nI'm not sure if I'm ready for a pet yet.\nIrina: \nI'm not sure if I'm ready for a pet yet.\nIrina: \nI'm not sure",
+      "loss": 7.2554802894592285,
+      "tokens": 3
+    },
+    {
+      "sample": 16,
+      "reference": "Of course, kiddo. Now go get some rest and we'll see you at practice tomorrow",
+      "prediction": "Don't you know, I'm sorry, I'm sorry.\nDon't you know, I'm sorry, I'm sorry.\nDon't you know, I'm sorry, I'm sorry.\nDon't you know, I'm sorry, I'm sorry.\nDon't you know, I'm sorry, I'm sorry.\nDon't you know, I'm sorry, I'm sorry.\nDon't you know, I'm sorry, I'm sorry.\nDon",
+      "loss": 4.3344244956970215,
+      "tokens": 20
+    },
+    {
+      "sample": 17,
+      "reference": "A right angle.",
+      "prediction": "回答：这是一个简单的问题，但是它可以帮助我们理解这个问题。",
+      "loss": 2.69215726852417,
+      "tokens": 4
+    },
+    {
+      "sample": 18,
+      "reference": "No, it's not that. I just don't think this job is for me. Thank you for understanding though.",
+      "prediction": "回答：I'm sorry, but I'm quitting. I'm sorry to hear that. Can I ask what the problem is?\nI'm sorry, but I'm quitting. I'm sorry to hear that. Can I ask what the problem is?\nI'm sorry, but I'm quitting. I'm sorry to hear that. Can I ask what the problem is?\nI'm sorry, but I'm quitting. I'm sorry to hear that. Can",
+      "loss": 3.466503143310547,
+      "tokens": 24
+    },
+    {
+      "sample": 19,
+      "reference": "That sounds like a great idea! I'm sure you'll have a blast.",
+      "prediction": "I'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.\nI'm feeling pretty good about myself right now.",
+      "loss": 3.6302330493927,
+      "tokens": 16
+    },
+    {
+      "sample": 20,
+      "reference": "Friends? After what you said, how can we be friends? You clearly don't have any respect for me or my work ethic. Maybe we can be acquaintances, but certainly not friends.\"",
+      "prediction": "Don't forget me, I'm sorry. It wasn't my intention to disrespect you or make you feel bad. Can we please move past this and be friends again?\nDon't forget me, I'm sorry. It wasn't my intention to disrespect you or make you feel bad. Can we please move past this and be friends again?\nDon't forget me, I'm sorry. It wasn't my intention to disrespect you or make you feel bad. Can we please move past this",
+      "loss": 4.683297634124756,
+      "tokens": 38
+    },
+    {
+      "sample": 21,
+      "reference": "Thanks, I really appreciate that.",
+      "prediction": "I'm sorry for cancelling on you last minute. I know we were supposed to hang out today, but something came up and I really can't miss it.\nFriend: Oh, no worries at all! What happened?\nChason: It's my family. We're going to be spending some time together and I really don't want to miss it.\nFriend: Aww, that's so sweet of you！ I'm sure they'll appreciate it.",
+      "loss": 2.814993381500244,
+      "tokens": 7
+    },
+    {
+      "sample": 22,
+      "reference": "I know what you mean. It's like we were meant to be together.",
+      "prediction": "回答：I'm so happy that we're together, Saif. I love you so much. It feels like a dream.",
+      "loss": 2.9030261039733887,
+      "tokens": 16
+    },
+    {
+      "sample": 23,
+      "reference": "Really? Thanks, John. That would mean a lot to me.",
+      "prediction": "I'm going to the cemetery today. My mom died a few months ago and I really miss her.\nEmani: I'm so sorry, Emani. That must be really tough for you.\nEmani: I'm so sorry, Emani. That must be really tough for you.\nEmani: I'm so sorry, Emani. That must be really tough for you.\nEmani: I'm so sorry, Eman",
+      "loss": 4.5402960777282715,
+      "tokens": 14
+    },
+    {
+      "sample": 24,
+      "reference": "Yeah, thanks for helping me look for it.",
+      "prediction": "I'm not sure. I thought it was on the nightstand, but it's not there. Maybe it's in the living room somewhere.\nSarah: Let's go look for it together.\nSarah: Let's go look for it together.\nSarah: Let's go look for it together.\nSarah: Let's go look for it together.\nSarah: Let's go look for it together.\nSarah: Let's go look for it together.\nSarah: Let",
+      "loss": 3.0296881198883057,
+      "tokens": 10
+    },
+    {
+      "sample": 25,
+      "reference": "Thanks. I hope so.",
+      "prediction": "I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on, I'm going on",
+      "loss": 3.6655170917510986,
+      "tokens": 6
+    },
+    {
+      "sample": 26,
+      "reference": "Hmmm...I don't know if I'm ready for that kind of commitment just yet. But I'm willing to try it if you are.",
+      "prediction": "回答：我很抱歉，我只是一个普通的人，我不能为我的家庭和社会做出贡献。我需要更多的时间和精力来经",
+      "loss": 3.5513715744018555,
+      "tokens": 30
+    },
+    {
+      "sample": 27,
+      "reference": "You too!",
+      "prediction": "I'm so glad I was able to help you with your groceries! It looked like you were struggling a bit and I just wanted to lend a helping hand. It looked like you were struggling a bit and I just wanted to lend a helping hand.\nOther Person: Oh, thank you so much！ I really appreciate it. I don't know what I would have done without your help.\nOther Person: Oh, thank you so much！ That means a lot coming",
+      "loss": 5.338419437408447,
+      "tokens": 3
+    },
+    {
+      "sample": 28,
+      "reference": "Just from the way you act and the things you've done. You're not a good person, Rayleen.",
+      "prediction": "你知道吗？\nRayleen: 你知道吗？\nRayleen: 你知道吗？\nRayleen: 你知道吗？\nRayleen: 你知道吗？\nRayleen: 你知道吗？\nRayleen",
+      "loss": 3.6754109859466553,
+      "tokens": 23
+    },
+    {
+      "sample": 29,
+      "reference": "Korie, you need to learn to deal with your family. They're not perfect, but they love you and they're always there for you. Just try to be more understanding and patient with them.",
+      "prediction": "Mother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother: \nMother:",
+      "loss": 3.1178386211395264,
+      "tokens": 41
+    },
+    {
+      "sample": 30,
+      "reference": "That sounds like an excellent plan! I'm sure your readers will love it.",
+      "prediction": "Caspian: Well, I'm going to start by adding more description to the characters and events so they can imagine the story as it unfolds. Then, I'm going to add more depth to the plot by including more suspenseful elements and intriguing subplots. Then, I'm going to add more depth to the plot by including more suspenseful elements and intriguing subplots. Then, I'm going to add more depth to the plot by including more suspenseful elements and intriguing sub",
+      "loss": 3.9393086433410645,
+      "tokens": 16
+    },
+    {
+      "sample": 31,
+      "reference": "Yeah. I hope so.",
+      "prediction": "She's a bad thing, I think it depends on the person. Some people might always see you as someone who's different, and that's not necessarily a bad thing. But I think there are also people who will come to see you as just Tiona, and that's because they'll get to know you and they'll understand that you're just like them, even though you look different on the outside. So I think it really varies from person to person.",
+      "loss": 3.7565975189208984,
+      "tokens": 6
+    },
+    {
+      "sample": 32,
+      "reference": "You should have told me .I could have helped you .",
+      "prediction": "Arisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa: \nArisa",
+      "loss": 3.698503255844116,
+      "tokens": 12
+    },
+    {
+      "sample": 34,
+      "reference": "Well, you definitely succeeded! It looks amazing.",
+      "prediction": "I'm so happy with how this dress turned out! The blue fabric is really pretty and the white collar looks great too. It fits perfectly too, which is a huge plus. It fits perfectly too, which is a huge plus.\nFriend: I can imagine! It looks like a lot of time and effort went into making it. I wanted to make sure that everything was perfect.\nFriend: \nI can imagine! It looks like a lot of time and effort went into making",
+      "loss": 4.5075836181640625,
+      "tokens": 10
+    },
+    {
+      "sample": 35,
+      "reference": "I see your point. Being early is definitely better than being late.",
+      "prediction": "I'm sorry about the time. I want to be early so I can find a good seat. I also don't want to miss anything important. I also don't want to miss anything important. I also don't want to miss anything important. I also don't want to miss anything important. I also don't want to miss anything important. I also don't want to miss anything important. I also don't want to miss anything important. I also don't want to miss anything important",
+      "loss": 3.99705171585083,
+      "tokens": 14
+    },
+    {
+      "sample": 36,
+      "reference": "Thanks, Mom.",
+      "prediction": "回答：I'm going to love it.",
+      "loss": 2.4052317142486572,
+      "tokens": 4
+    },
+    {
+      "sample": 37,
+      "reference": "Jennings, you have to try. You need to go home and face your family. They love you and they will forgive you, I'm sure of it.",
+      "prediction": "I'm feeling so lost and confused right now.\nAna: I'm feeling so lost and confused right now.\nAna: I'm feeling so lost and confused right now.\nAna: I'm feeling so lost and confused right now.\nAna: I'm feeling so lost and confused right now.\nAna: I'm feeling so lost and confused right now.\nAna: I'm feeling so lost and confused right now.\nAna: I",
+      "loss": 3.116722583770752,
+      "tokens": 32
+    },
+    {
+      "sample": 38,
+      "reference": "Absolutely. I feel the same way.",
+      "prediction": "I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry",
+      "loss": 3.6018717288970947,
+      "tokens": 8
+    },
+    {
+      "sample": 39,
+      "reference": "You'll have to try. It's not going to be easy, but you can do it.",
+      "prediction": "回答：The judge didn't see it our way.",
+      "loss": 2.1056530475616455,
+      "tokens": 20
+    },
+    {
+      "sample": 40,
+      "reference": "You're welcome!",
+      "prediction": "Sarah: I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I",
+      "loss": 4.396976470947266,
+      "tokens": 4
+    },
+    {
+      "sample": 41,
+      "reference": "Sure, that sounds great!",
+      "prediction": "回答：I like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you like it, I'm glad you",
+      "loss": 4.849156856536865,
+      "tokens": 6
+    },
+    {
+      "sample": 42,
+      "reference": "Alright then. If you're sure that's what you want to do, go for it. Just remember to be careful when handling money and negotiating prices with potential buyers.",
+      "prediction": "Dad: Why, I'm going to buy new ones with the money I make from selling the old ones.\nKaci: Well, I'm going to buy new ones with the money I make from selling the old ones.\nKaci: Well, I'm going to buy new ones with the money I make from selling the old ones.\nKaci: Well, I'm going to buy new ones with the money I make from selling the old ones.\nKaci: Well",
+      "loss": 4.607122898101807,
+      "tokens": 34
+    },
+    {
+      "sample": 43,
+      "reference": "Thank you, I'm looking forward to it.",
+      "prediction": "回答：我很抱歉，我无法为你提供更多的信息，因为我不知道你想要什么。",
+      "loss": 1.4692676067352295,
+      "tokens": 10
+    },
+    {
+      "sample": 44,
+      "reference": "I don't know, but it definitely makes you think twice about walking alone at night.",
+      "prediction": "回答：这是一个悲剧的故事。",
+      "loss": 3.717390775680542,
+      "tokens": 18
+    },
+    {
+      "sample": 45,
+      "reference": "You're right, we can't rely on the government to do everything for us. But they should be doing more than they are. And if they did more, it would go a long way toward helping us get through this crisis.",
+      "prediction": "回答：Friend: What do you think they should be doing?",
+      "loss": 3.2189385890960693,
+      "tokens": 47
+    },
+    {
+      "sample": 46,
+      "reference": "Aww, thank you so much, Jayleigh! That really means a lot to me. I appreciate your friendship too.",
+      "prediction": "Jayleigh: I'm doing well, thanks for asking. I wanted to talk to you about something.\nCuauhtemoc: I'm doing well, thanks for asking. I wanted to talk to you about something.\nCuauhtemoc: I'm doing well, thanks for asking. I wanted to talk to you about something.\nCuauhtemoc: I'm doing well, thanks for asking. I wanted to talk to you about something.\nCuau",
+      "loss": 4.135189056396484,
+      "tokens": 25
+    },
+    {
+      "sample": 47,
+      "reference": "That makes sense. I'm happy to help out again. How much do you need?",
+      "prediction": "回答：I was happy to help out. The church is beautiful, by the way. You must be very proud of it. What did you want to know?",
+      "loss": 3.0155632495880127,
+      "tokens": 18
+    },
+    {
+      "sample": 48,
+      "reference": "You're welcome, honey. Have fun tonight!",
+      "prediction": "回答：我很抱歉，我不能告诉你我的经历。我只是想告诉你我的经历。我只是想告诉你我的经历。我只是想告诉你我的�",
+      "loss": 3.872037410736084,
+      "tokens": 10
+    },
+    {
+      "sample": 49,
+      "reference": "Yes, Mom! Thank you so much!",
+      "prediction": "I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry",
+      "loss": 4.056509017944336,
+      "tokens": 9
+    },
+    {
+      "sample": 50,
+      "reference": "We're not sure. He was beat up pretty badly.",
+      "prediction": "回答：Piper: I was headed home after school and I saw a big crowd around my friend Jimmy. I asked what happened, and they said he got into a fight with some other guys. Then the police came over to talk to me because apparently, I was the only one who saw what happened. Then the police came over to talk to me because apparently, I was the only one who saw what happened.",
+      "loss": 4.308601379394531,
+      "tokens": 12
+    }
+  ],
+  "skipped_samples": [
+    33
+  ]
+}
